@@ -1,0 +1,526 @@
+{
+  "emissor": "picpay",
+  "vencimento": "2026-09-05",
+  "fechamento": "2026-08-27",
+  "total_centavos": 605585,
+  "lancamentos": [
+    {
+      "data": "2026-08-05",
+      "descricao_original": "PAGAMENTO DE FATURA",
+      "valor_centavos": -861378,
+      "portador": null,
+      "cartao_final": null
+    },
+    {
+      "data": "2026-02-23",
+      "descricao_original": "NESCAFE DOLCE PARC07/10",
+      "valor_centavos": 769,
+      "portador": "OTAVIO H AMORIM",
+      "cartao_final": "1024"
+    },
+    {
+      "data": "2026-06-06",
+      "descricao_original": "JIM.COM* AGILEPARC03/12",
+      "valor_centavos": 166889,
+      "portador": "OTAVIO H AMORIM",
+      "cartao_final": "1024"
+    },
+    {
+      "data": "2026-07-11",
+      "descricao_original": "MARAVILHAS DO PARC02/04",
+      "valor_centavos": 5744,
+      "portador": "OTAVIO H AMORIM",
+      "cartao_final": "1024"
+    },
+    {
+      "data": "2026-07-30",
+      "descricao_original": "PONTO GOURMET",
+      "valor_centavos": 7000,
+      "portador": "OTAVIO H AMORIM",
+      "cartao_final": "1024"
+    },
+    {
+      "data": "2026-07-31",
+      "descricao_original": "SUPERMERCADO TAUSTE",
+      "valor_centavos": 8811,
+      "portador": "OTAVIO H AMORIM",
+      "cartao_final": "1024"
+    },
+    {
+      "data": "2026-07-31",
+      "descricao_original": "SUPERMERCADO TAUSTE",
+      "valor_centavos": 18381,
+      "portador": "OTAVIO H AMORIM",
+      "cartao_final": "1024"
+    },
+    {
+      "data": "2026-07-31",
+      "descricao_original": "IFD*MARCO AURELIO DA C",
+      "valor_centavos": 7399,
+      "portador": "OTAVIO H AMORIM",
+      "cartao_final": "1024"
+    },
+    {
+      "data": "2026-07-31",
+      "descricao_original": "PAGUE MENOSA 11",
+      "valor_centavos": 1950,
+      "portador": "OTAVIO H AMORIM",
+      "cartao_final": "1024"
+    },
+    {
+      "data": "2026-08-02",
+      "descricao_original": "EIXOSP",
+      "valor_centavos": 1460,
+      "portador": "OTAVIO H AMORIM",
+      "cartao_final": "1024"
+    },
+    {
+      "data": "2026-08-02",
+      "descricao_original": "IFD*IFOOD CLUB",
+      "valor_centavos": 897,
+      "portador": "OTAVIO H AMORIM",
+      "cartao_final": "1024"
+    },
+    {
+      "data": "2026-08-02",
+      "descricao_original": "IFD*SILVANA APARECIDA",
+      "valor_centavos": 4889,
+      "portador": "OTAVIO H AMORIM",
+      "cartao_final": "1024"
+    },
+    {
+      "data": "2026-08-03",
+      "descricao_original": "PONTO GOURMET",
+      "valor_centavos": 4517,
+      "portador": "OTAVIO H AMORIM",
+      "cartao_final": "1024"
+    },
+    {
+      "data": "2026-08-04",
+      "descricao_original": "ESPETINHOS ANALICE",
+      "valor_centavos": 6640,
+      "portador": "OTAVIO H AMORIM",
+      "cartao_final": "1024"
+    },
+    {
+      "data": "2026-08-04",
+      "descricao_original": "EMPORIO MISTER BEEF AL",
+      "valor_centavos": 3500,
+      "portador": "OTAVIO H AMORIM",
+      "cartao_final": "1024"
+    },
+    {
+      "data": "2026-08-04",
+      "descricao_original": "LUAD",
+      "valor_centavos": 4765,
+      "portador": "OTAVIO H AMORIM",
+      "cartao_final": "1024"
+    },
+    {
+      "data": "2026-08-05",
+      "descricao_original": "FERRACINI SUPERMERCADO",
+      "valor_centavos": 2915,
+      "portador": "OTAVIO H AMORIM",
+      "cartao_final": "1024"
+    },
+    {
+      "data": "2026-08-05",
+      "descricao_original": "EMPORIO MISTER BEEF AL",
+      "valor_centavos": 1973,
+      "portador": "OTAVIO H AMORIM",
+      "cartao_final": "1024"
+    },
+    {
+      "data": "2026-08-05",
+      "descricao_original": "LUAD",
+      "valor_centavos": 3782,
+      "portador": "OTAVIO H AMORIM",
+      "cartao_final": "1024"
+    },
+    {
+      "data": "2026-08-06",
+      "descricao_original": "RAIZARAFAELEDOS",
+      "valor_centavos": 9950,
+      "portador": "OTAVIO H AMORIM",
+      "cartao_final": "1024"
+    },
+    {
+      "data": "2026-08-06",
+      "descricao_original": "LUAD",
+      "valor_centavos": 4454,
+      "portador": "OTAVIO H AMORIM",
+      "cartao_final": "1024"
+    },
+    {
+      "data": "2026-08-07",
+      "descricao_original": "BUTEKO DO VEIO",
+      "valor_centavos": 18250,
+      "portador": "OTAVIO H AMORIM",
+      "cartao_final": "1024"
+    },
+    {
+      "data": "2026-08-07",
+      "descricao_original": "LUAD",
+      "valor_centavos": 4731,
+      "portador": "OTAVIO H AMORIM",
+      "cartao_final": "1024"
+    },
+    {
+      "data": "2026-08-08",
+      "descricao_original": "BAR DA RAMPA",
+      "valor_centavos": 1200,
+      "portador": "OTAVIO H AMORIM",
+      "cartao_final": "1024"
+    },
+    {
+      "data": "2026-08-08",
+      "descricao_original": "RESTAURANTE BELA VIST",
+      "valor_centavos": 20000,
+      "portador": "OTAVIO H AMORIM",
+      "cartao_final": "1024"
+    },
+    {
+      "data": "2026-08-08",
+      "descricao_original": "ESTACAO RESTAURANTE",
+      "valor_centavos": 7623,
+      "portador": "OTAVIO H AMORIM",
+      "cartao_final": "1024"
+    },
+    {
+      "data": "2026-08-08",
+      "descricao_original": "IFD*L F VINCENZI LTDA",
+      "valor_centavos": 3616,
+      "portador": "OTAVIO H AMORIM",
+      "cartao_final": "1024"
+    },
+    {
+      "data": "2026-08-09",
+      "descricao_original": "IFD*GUILHERME FELIPE R",
+      "valor_centavos": 12534,
+      "portador": "OTAVIO H AMORIM",
+      "cartao_final": "1024"
+    },
+    {
+      "data": "2026-08-10",
+      "descricao_original": "SOUMEQ",
+      "valor_centavos": 4892,
+      "portador": "OTAVIO H AMORIM",
+      "cartao_final": "1024"
+    },
+    {
+      "data": "2026-08-11",
+      "descricao_original": "RESTAURANTE E SORVETER",
+      "valor_centavos": 2438,
+      "portador": "OTAVIO H AMORIM",
+      "cartao_final": "1024"
+    },
+    {
+      "data": "2026-08-13",
+      "descricao_original": "RESTAURANTE E SORVETER",
+      "valor_centavos": 3406,
+      "portador": "OTAVIO H AMORIM",
+      "cartao_final": "1024"
+    },
+    {
+      "data": "2026-08-13",
+      "descricao_original": "CONFIANCA JAU",
+      "valor_centavos": 3824,
+      "portador": "OTAVIO H AMORIM",
+      "cartao_final": "1024"
+    },
+    {
+      "data": "2026-08-14",
+      "descricao_original": "RESTAURANTE E SORVETER",
+      "valor_centavos": 3281,
+      "portador": "OTAVIO H AMORIM",
+      "cartao_final": "1024"
+    },
+    {
+      "data": "2026-08-14",
+      "descricao_original": "SERGIOMASSAOADATI",
+      "valor_centavos": 10514,
+      "portador": "OTAVIO H AMORIM",
+      "cartao_final": "1024"
+    },
+    {
+      "data": "2026-08-15",
+      "descricao_original": "IFD*RESTAURANTE CANAA",
+      "valor_centavos": 2762,
+      "portador": "OTAVIO H AMORIM",
+      "cartao_final": "1024"
+    },
+    {
+      "data": "2026-08-15",
+      "descricao_original": "PORTEIRA PORCOES",
+      "valor_centavos": 17532,
+      "portador": "OTAVIO H AMORIM",
+      "cartao_final": "1024"
+    },
+    {
+      "data": "2026-08-16",
+      "descricao_original": "IFD*63372699 MARLENE T",
+      "valor_centavos": 3698,
+      "portador": "OTAVIO H AMORIM",
+      "cartao_final": "1024"
+    },
+    {
+      "data": "2026-08-17",
+      "descricao_original": "PET 10 FRANQUIAS",
+      "valor_centavos": 19300,
+      "portador": "OTAVIO H AMORIM",
+      "cartao_final": "1024"
+    },
+    {
+      "data": "2026-08-17",
+      "descricao_original": "S V COMERCIO",
+      "valor_centavos": 1397,
+      "portador": "OTAVIO H AMORIM",
+      "cartao_final": "1024"
+    },
+    {
+      "data": "2026-08-17",
+      "descricao_original": "LUAD",
+      "valor_centavos": 2406,
+      "portador": "OTAVIO H AMORIM",
+      "cartao_final": "1024"
+    },
+    {
+      "data": "2026-08-18",
+      "descricao_original": "AIRTON BERNARDO",
+      "valor_centavos": 5988,
+      "portador": "OTAVIO H AMORIM",
+      "cartao_final": "1024"
+    },
+    {
+      "data": "2026-08-18",
+      "descricao_original": "LUAD",
+      "valor_centavos": 3263,
+      "portador": "OTAVIO H AMORIM",
+      "cartao_final": "1024"
+    },
+    {
+      "data": "2026-08-19",
+      "descricao_original": "POSTO JAGUAR 3",
+      "valor_centavos": 11800,
+      "portador": "OTAVIO H AMORIM",
+      "cartao_final": "1024"
+    },
+    {
+      "data": "2026-08-19",
+      "descricao_original": "LUAD",
+      "valor_centavos": 2755,
+      "portador": "OTAVIO H AMORIM",
+      "cartao_final": "1024"
+    },
+    {
+      "data": "2026-08-20",
+      "descricao_original": "AUTO POSTO SANTA MONIC",
+      "valor_centavos": 11701,
+      "portador": "OTAVIO H AMORIM",
+      "cartao_final": "1024"
+    },
+    {
+      "data": "2026-08-20",
+      "descricao_original": "PONTO GOURMET",
+      "valor_centavos": 8462,
+      "portador": "OTAVIO H AMORIM",
+      "cartao_final": "1024"
+    },
+    {
+      "data": "2026-08-20",
+      "descricao_original": "GAMA SORVETES",
+      "valor_centavos": 4019,
+      "portador": "OTAVIO H AMORIM",
+      "cartao_final": "1024"
+    },
+    {
+      "data": "2026-08-21",
+      "descricao_original": "COMERCIODEBEBIDAS",
+      "valor_centavos": 6075,
+      "portador": "OTAVIO H AMORIM",
+      "cartao_final": "1024"
+    },
+    {
+      "data": "2026-08-21",
+      "descricao_original": "APARECIDO MALDONADO",
+      "valor_centavos": 6498,
+      "portador": "OTAVIO H AMORIM",
+      "cartao_final": "1024"
+    },
+    {
+      "data": "2026-08-22",
+      "descricao_original": "BUFFET SANTA CLARA",
+      "valor_centavos": 17692,
+      "portador": "OTAVIO H AMORIM",
+      "cartao_final": "1024"
+    },
+    {
+      "data": "2026-08-22",
+      "descricao_original": "CHURRASCO GREGO",
+      "valor_centavos": 3600,
+      "portador": "OTAVIO H AMORIM",
+      "cartao_final": "1024"
+    },
+    {
+      "data": "2026-08-22",
+      "descricao_original": "JIM.COM* MEROLEM DALI",
+      "valor_centavos": 2478,
+      "portador": "OTAVIO H AMORIM",
+      "cartao_final": "1024"
+    },
+    {
+      "data": "2026-08-22",
+      "descricao_original": "IFD*MARCO AURELIO DA C",
+      "valor_centavos": 4449,
+      "portador": "OTAVIO H AMORIM",
+      "cartao_final": "1024"
+    },
+    {
+      "data": "2026-08-23",
+      "descricao_original": "JAU SERVE",
+      "valor_centavos": 4771,
+      "portador": "OTAVIO H AMORIM",
+      "cartao_final": "1024"
+    },
+    {
+      "data": "2026-08-24",
+      "descricao_original": "LUCI DALVA LOBO FAVERO",
+      "valor_centavos": 5560,
+      "portador": "OTAVIO H AMORIM",
+      "cartao_final": "1024"
+    },
+    {
+      "data": "2026-08-25",
+      "descricao_original": "CASTELLO RESTAURANTE",
+      "valor_centavos": 8200,
+      "portador": "OTAVIO H AMORIM",
+      "cartao_final": "1024"
+    },
+    {
+      "data": "2026-08-25",
+      "descricao_original": "FERRACINI SUPERMERCADO",
+      "valor_centavos": 3104,
+      "portador": "OTAVIO H AMORIM",
+      "cartao_final": "1024"
+    },
+    {
+      "data": "2026-08-26",
+      "descricao_original": "RESTAURANTE E SORVETER",
+      "valor_centavos": 4256,
+      "portador": "OTAVIO H AMORIM",
+      "cartao_final": "1024"
+    },
+    {
+      "data": "2026-08-26",
+      "descricao_original": "EMPORIO MISTER BEEF AL",
+      "valor_centavos": 1842,
+      "portador": "OTAVIO H AMORIM",
+      "cartao_final": "1024"
+    },
+    {
+      "data": "2026-07-12",
+      "descricao_original": "RAIA DROGASIL PARC02/02",
+      "valor_centavos": 7100,
+      "portador": "OTAVIO H AMORIM",
+      "cartao_final": "1040"
+    },
+    {
+      "data": "2026-07-30",
+      "descricao_original": "LR MELLO BCA DPARC01/02",
+      "valor_centavos": 7495,
+      "portador": "CAROLINE AMORIM",
+      "cartao_final": "1057"
+    },
+    {
+      "data": "2026-07-30",
+      "descricao_original": "CIA TERNO-LESCPARC01/06",
+      "valor_centavos": 3150,
+      "portador": "CAROLINE AMORIM",
+      "cartao_final": "1057"
+    },
+    {
+      "data": "2026-07-30",
+      "descricao_original": "JIM.COM* HORACIO LIVR",
+      "valor_centavos": 1250,
+      "portador": "CAROLINE AMORIM",
+      "cartao_final": "1057"
+    },
+    {
+      "data": "2026-07-30",
+      "descricao_original": "CONFIANCA JAU",
+      "valor_centavos": 4613,
+      "portador": "CAROLINE AMORIM",
+      "cartao_final": "1057"
+    },
+    {
+      "data": "2026-07-30",
+      "descricao_original": "EMPORIO MISTER BEEF AL",
+      "valor_centavos": 3390,
+      "portador": "CAROLINE AMORIM",
+      "cartao_final": "1057"
+    },
+    {
+      "data": "2026-07-30",
+      "descricao_original": "MARIA LAVADEIRA JAU",
+      "valor_centavos": 12000,
+      "portador": "CAROLINE AMORIM",
+      "cartao_final": "1057"
+    },
+    {
+      "data": "2026-08-03",
+      "descricao_original": "CONFIANCA JAU",
+      "valor_centavos": 2586,
+      "portador": "CAROLINE AMORIM",
+      "cartao_final": "1057"
+    },
+    {
+      "data": "2026-08-04",
+      "descricao_original": "MARAVILHAS DO PARC01/03",
+      "valor_centavos": 2066,
+      "portador": "CAROLINE AMORIM",
+      "cartao_final": "1057"
+    },
+    {
+      "data": "2026-08-05",
+      "descricao_original": "MEGA VESTCASA JAU",
+      "valor_centavos": 3380,
+      "portador": "CAROLINE AMORIM",
+      "cartao_final": "1057"
+    },
+    {
+      "data": "2026-08-05",
+      "descricao_original": "ZAFREE",
+      "valor_centavos": 4890,
+      "portador": "CAROLINE AMORIM",
+      "cartao_final": "1057"
+    },
+    {
+      "data": "2026-08-10",
+      "descricao_original": "CONSTRUMARQUESJAU",
+      "valor_centavos": 3713,
+      "portador": "CAROLINE AMORIM",
+      "cartao_final": "1057"
+    },
+    {
+      "data": "2026-08-12",
+      "descricao_original": "SUPER QUEIMA PRECO",
+      "valor_centavos": 4640,
+      "portador": "CAROLINE AMORIM",
+      "cartao_final": "1057"
+    },
+    {
+      "data": "2026-08-12",
+      "descricao_original": "EMPORIO MISTER BEEF AL",
+      "valor_centavos": 11110,
+      "portador": "CAROLINE AMORIM",
+      "cartao_final": "1057"
+    },
+    {
+      "data": "2026-08-25",
+      "descricao_original": "DEISEBORDADOSE",
+      "valor_centavos": 7600,
+      "portador": "CAROLINE AMORIM",
+      "cartao_final": "1057"
+    }
+  ]
+}
