@@ -1,0 +1,202 @@
+{
+  "AUTO POSTO SANTA MONICA": {
+    "categoria": "Transporte/Combustivel",
+    "origem": "seed",
+    "confirmado": 1
+  },
+  "BAR DA RAMPA": {
+    "categoria": "Alimentacao fora",
+    "origem": "seed",
+    "confirmado": 1
+  },
+  "BUFFET SANTA CLARA": {
+    "categoria": "Alimentacao fora",
+    "origem": "seed",
+    "confirmado": 1
+  },
+  "BUTEKO DO VEIO": {
+    "categoria": "Alimentacao fora",
+    "origem": "seed",
+    "confirmado": 1
+  },
+  "CASTELLO RESTAURANTE": {
+    "categoria": "Alimentacao fora",
+    "origem": "seed",
+    "confirmado": 1
+  },
+  "CHURRASCO GREGO": {
+    "categoria": "Alimentacao fora",
+    "origem": "seed",
+    "confirmado": 1
+  },
+  "CIA TERNO-LESC": {
+    "categoria": "Casa/Servicos/Vestuario",
+    "origem": "seed",
+    "confirmado": 1
+  },
+  "COMERCIODEBEBIDAS": {
+    "categoria": "Alimentacao fora",
+    "origem": "seed",
+    "confirmado": 1
+  },
+  "CONFIANCA JAU": {
+    "categoria": "Mercado/Acougue",
+    "origem": "seed",
+    "confirmado": 1
+  },
+  "CONSTRUMARQUESJAU": {
+    "categoria": "Casa/Servicos/Vestuario",
+    "origem": "seed",
+    "confirmado": 1
+  },
+  "DEISEBORDADOSE": {
+    "categoria": "Casa/Servicos/Vestuario",
+    "origem": "seed",
+    "confirmado": 1
+  },
+  "EIXOSP": {
+    "categoria": "Transporte/Combustivel",
+    "origem": "seed",
+    "confirmado": 1
+  },
+  "EMPORIO MISTER BEEF": {
+    "categoria": "Mercado/Acougue",
+    "origem": "seed",
+    "confirmado": 1
+  },
+  "ESPETINHOS ANALICE": {
+    "categoria": "Alimentacao fora",
+    "origem": "seed",
+    "confirmado": 1
+  },
+  "ESTACAO RESTAURANTE": {
+    "categoria": "Alimentacao fora",
+    "origem": "seed",
+    "confirmado": 1
+  },
+  "FERRACINI SUPERMERCADO": {
+    "categoria": "Mercado/Acougue",
+    "origem": "seed",
+    "confirmado": 1
+  },
+  "GAMA SORVETES": {
+    "categoria": "Alimentacao fora",
+    "origem": "seed",
+    "confirmado": 1
+  },
+  "GUILHERME FELIPE R": {
+    "categoria": "Alimentacao fora",
+    "origem": "seed",
+    "confirmado": 1
+  },
+  "IFOOD CLUB": {
+    "categoria": "Alimentacao fora",
+    "origem": "seed",
+    "confirmado": 1
+  },
+  "JAU SERVE": {
+    "categoria": "Mercado/Acougue",
+    "origem": "seed",
+    "confirmado": 1
+  },
+  "L F VINCENZI": {
+    "categoria": "Alimentacao fora",
+    "origem": "seed",
+    "confirmado": 1
+  },
+  "MARCO AURELIO DA C": {
+    "categoria": "Alimentacao fora",
+    "origem": "seed",
+    "confirmado": 1
+  },
+  "MARIA LAVADEIRA JAU": {
+    "categoria": "Casa/Servicos/Vestuario",
+    "origem": "seed",
+    "confirmado": 1
+  },
+  "MARLENE T": {
+    "categoria": "Alimentacao fora",
+    "origem": "seed",
+    "confirmado": 1
+  },
+  "MEGA VESTCASA JAU": {
+    "categoria": "Casa/Servicos/Vestuario",
+    "origem": "seed",
+    "confirmado": 1
+  },
+  "NESCAFE DOLCE": {
+    "categoria": "Casa/Servicos/Vestuario",
+    "origem": "seed",
+    "confirmado": 1
+  },
+  "PAGAMENTO DE FATURA": {
+    "categoria": "Pagamento",
+    "origem": "seed",
+    "confirmado": 1
+  },
+  "PAGUE MENOS": {
+    "categoria": "Saude/Farmacia",
+    "origem": "seed",
+    "confirmado": 1
+  },
+  "PAGUE MENOSA 11": {
+    "categoria": "Saude/Farmacia",
+    "origem": "seed",
+    "confirmado": 1
+  },
+  "PET 10 FRANQUIAS": {
+    "categoria": "Pet",
+    "origem": "seed",
+    "confirmado": 1
+  },
+  "PONTO GOURMET": {
+    "categoria": "Alimentacao fora",
+    "origem": "seed",
+    "confirmado": 1
+  },
+  "PORTEIRA PORCOES": {
+    "categoria": "Alimentacao fora",
+    "origem": "seed",
+    "confirmado": 1
+  },
+  "POSTO JAGUAR 3": {
+    "categoria": "Transporte/Combustivel",
+    "origem": "seed",
+    "confirmado": 1
+  },
+  "RAIA DROGASIL": {
+    "categoria": "Saude/Farmacia",
+    "origem": "seed",
+    "confirmado": 1
+  },
+  "RESTAURANTE BELA VIST": {
+    "categoria": "Alimentacao fora",
+    "origem": "seed",
+    "confirmado": 1
+  },
+  "RESTAURANTE CANAA": {
+    "categoria": "Alimentacao fora",
+    "origem": "seed",
+    "confirmado": 1
+  },
+  "RESTAURANTE E SORVETER": {
+    "categoria": "Alimentacao fora",
+    "origem": "seed",
+    "confirmado": 1
+  },
+  "SILVANA APARECIDA": {
+    "categoria": "Alimentacao fora",
+    "origem": "seed",
+    "confirmado": 1
+  },
+  "SUPER QUEIMA PRECO": {
+    "categoria": "Mercado/Acougue",
+    "origem": "seed",
+    "confirmado": 1
+  },
+  "SUPERMERCADO TAUSTE": {
+    "categoria": "Mercado/Acougue",
+    "origem": "seed",
+    "confirmado": 1
+  }
+}

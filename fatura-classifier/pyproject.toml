@@ -1,0 +1,19 @@
+[project]
+name = "fatura-classifier"
+version = "0.1.0"
+description = "Classificador automático de faturas de cartão"
+requires-python = ">=3.11"
+dependencies = [
+    "pdfplumber>=0.11",
+    "rapidfuzz>=3.0",
+    "click>=8.1",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=7.0"]
+
+[project.scripts]
+fatura = "src.cli:cli"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
